@@ -1,5 +1,5 @@
 # demoApp
 
 # navigate into project folder.
-yarn install.<br/>
-npm start # you can also use: expo start
+1 yarn install.<br/>
+2 npm start # you can also use: expo start
